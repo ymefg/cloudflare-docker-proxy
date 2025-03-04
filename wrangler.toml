@@ -21,7 +21,7 @@ routes = [
   { pattern = "quay.docker.yanming.link", custom_domain = true },
   { pattern = "gcr.docker.yanming.link", custom_domain = true },
   { pattern = "k8s-gcr.docker.yanming.link", custom_domain = true },
-  { pattern = "k8s.docker.yanming.link", custom_domain = true },
+#  { pattern = "k8s.docker.yanming.link", custom_domain = true },
   { pattern = "ghcr.docker.yanming.link", custom_domain = true },
   { pattern = "cloudsmith.docker.yanming.link", custom_domain = true },
 ]
